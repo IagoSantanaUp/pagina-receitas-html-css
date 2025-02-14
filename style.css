@@ -15,6 +15,10 @@ body {
   color: #573A37;
 }
 
+main {
+  padding: 0 24px ;
+}
+
 #page {
   width: 800px;
   padding: 24px;
@@ -48,10 +52,14 @@ body {
   color: #291B1A;
 
   font-weight: 400;
+  line-height: 150%;
+}
+
+ul {
+  margin-left: 24px;
 }
 
 h2 {
-
   margin-top: 24px;
   margin-bottom: 12px;
 }
